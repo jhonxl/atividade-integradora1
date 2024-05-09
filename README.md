@@ -21,6 +21,8 @@ Este é um documento HTML que apresenta informações sobre notícias, fake news
 
 ## Como Usar
 Este documento HTML pode ser aberto em qualquer navegador da web para visualização. Ele fornece informações sobre notícias e fake news, além de orientações sobre como identificar fontes confiáveis de informação.
+Se for melhor, você pode clicar no link abaixo:
+# https://jhonxl.github.io/atividade-integradora1/
 
 ## Autor
 Este documento foi criado como parte de uma atividade integradora no primeiro semestre de 2024.1.
